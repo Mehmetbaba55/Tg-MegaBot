@@ -26,7 +26,7 @@
       "value": "5000"
     },
     "CHAT_BASE_TOKEN": {
-      "description": "Your chat base token, as a string.",
+      "description": "Sohbet tabanı belirteciniz, dize olarak.",
       "value": ""
     },
     "APP_ID": {
