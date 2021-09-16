@@ -7,6 +7,6 @@ Modüler Hepsi Bir Kerede Telegram botu(Yeniden Adlandır, Kırp, Kes, Ekran Gö
 ### Zorunlu Vars.
 
 - Zorunlu Vars Bazı Vars Vars Var :-
-   - `API_ID` :  Alternatif Telegram Hesabınızın API_ID verin. ayrıca buradan almak
-   - `API_HASH` :  Alternatif Telegram Hesabınızın API_HASH verin. ayrıca buradan almak
+   - `API_ID` :  Alternatif Telegram Hesabınızın API_ID verin. ayrıca buradan almak telegram org. Den alınız. 
+   - `API_HASH` :  Alternatif Telegram Hesabınızın API_HASH verin. ayrıca buradan almak telegram org. Den alınız. 
    - `BOT_TOKEN` :  Make a Bot from [@Botfather](https://t.me/botfather) and fill it's bot token.
